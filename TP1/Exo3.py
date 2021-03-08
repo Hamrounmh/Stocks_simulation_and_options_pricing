@@ -3,7 +3,7 @@ import numpy.random as sim
 import matplotlib.pyplot as plt
 
 T=4
-n=10
+n=1000
 N=1 # nombre de trajectoirs
 pas =T/n
 
